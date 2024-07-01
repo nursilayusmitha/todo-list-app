@@ -45,7 +45,7 @@ export default {
       <div class="image-container">
         <img src="/public/todos.svg" alt="Animated Image" class="animated-image" />
       </div>
-      <h1 class="title animated-title">To Do List</h1>
+      <h1 class="title animated-title">TO DO LIST</h1>
     </div>
     <div class="content">
       <div class="todo-container">
